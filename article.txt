@@ -1,0 +1,52 @@
+Silicon Valley Bank (SVB), commonly known for catering to startups and life-science firms, has collapsed. Before delving into the reasons behind this collapse, it's important to understand the bank's history and operations.
+FE
+
+SVB provided services mainly to tech startups, and with them thriving, the bank saw its deposits increase accordingly. However, its loan book didn't catch up, which resulted in a deficit on the spread between the interest rate they pay on deposits and the rate they are paid by the borrowers.
+
+Towards the end of 2021, SVB had taken steps to address the interest spread deficit it was facing. One of these measures involved heavily investing in mortgage bonds and treasuries to generate additional interest income.
+
+However, despite its efforts to boost earnings, persistent inflation had a substantial impact on the bond market. As inflation continued to rise, so did the interest rates on bonds. This led to a significant decline in the market value of the bank's bond holdings, causing the bank to experience a reduction in its asset base.
+
+In such an economy, venture-capital fund raising withered, and tech companies that once had large deposits and small loans started pulling the rug from under the bank. Moreover, a considerable number of big, uninsured depositors started overreacting during signs of turbulence and withdrew their money from the bank.
+
+SVB saw no other solution but to sell its holdings of bonds at a loss in order to honor its depositors, which resulted in a $1.9 billion hole in its balance sheet. To bolster its finances and plug the hole, it planned to raise $2.25 billion by issuing new shares, which backfired instead and caused a staggering $42 billion withdrawal from depositors in a single day.
+
+Through its heavy investment in long-term bonds, SVB resorted to a huge gamble by overlooking inflation and ostensibly ignoring interest rates.
+
+A recurring theme in SVB's massive failure was its poor risk management and financial planning. It either didn't have or didn't want to have a plan.
+
+In the aftermath of the 2008 financial crisis, the Dodd-Frank Act was implemented in the United States, mandating that banks with assets exceeding $50 billion adhere to a range of new regulations. One of these regulations was to create a strategy for a methodical resolution in the event of bank failure. The intention behind this was to safeguard depositors and payment systems by using robust capital buffers for banks and, by implementing careful planning to ensure that any losses be passed on to investors following a specified order. Many have argued that this precedent set a strong moral hazard.
+
+Nonetheless, in 2018, both Congress and bank regulators diluted the resolution planning and liquidity regulations, especially for banks with assets ranging from $100billion to $250billion. A significant number of these banks had advocated for relaxed regulations.
+
+Some banking experts said that the Dodd-Frank Act might have been very useful to SVB, and forcing the bank to have a bail-in strategy could've been handy to better handle the situation, had it not been rolled back.
+
+The downfall of SVB could cast a discouraging shadow on the sector, potentially having negative ramifications for the venture debt market, bridge financing, and risk management practices throughout the industry.
+
+As the news of SVB's troubles began to spread, it had a ripple effect on other banks with a similar clientele. One of these banks was Signature Bank, which also had a large number of uninsured depositors exceeding $250,000. Upon hearing the news, many of Signature Bank's customers panicked, fearing that their deposits were at risk.
+
+The fear and uncertainty caused by SVB's predicament led to a flood of deposits leaving Signature Bank, resulting in a major decline in the bank's stock price. It is now in a precarious position, as it has lost a considerable amount of its funding base and need to find a way to stem the outflow of deposits.
+
+Following these unfortunate events, regulators have taken swift action. The Federal Reserve's plan to increase interest rates at its next meeting is being re-evaluated, and in order to avert any negative impacts on the economy, the government has utilised a "systemic risk exception" to compensate depositors who lack insurance coverage. Furthermore, to ensure depositors' demands are met, the Federal Reserve has introduced an emergency lending initiative called the Bank Term Funding Programme, aimed at providing funds to eligible banks. The purpose of this initiative is to assist banks in leveraging their collateral to obtain loans with advantageous interest rates. This new programme protects banks against liquidity issues and insulates them from interest-rate risk, but it may also encourage more recklessness in the future.
+
+These efforts are being deployed in order to allay public concerns by affirming the soundness and adequate capitalisation of the wider banking system, but critics say that this is too little and too late.
+
+The collapse of a bank can be a disastrous event for both the financial system and the public. If a bank fails, it can trigger a sense of panic and worry among the public, as people fear that their deposits may be lost or that other financial institutions may also be at risk of collapsing. This can lead to a run on deposits, as people rush to withdraw their money from the bank before it fails. In turn, this can cause further financial instability and potentially result in significant losses for depositors.
+
+However, in the case of SVB, regulators have taken joint decisive action to fully repay depositors and prevent further financial instability. The Federal Deposit Insurance Corporation (FDIC) has played a crucial role in this effort. The FDIC is an independent agency of the federal government that provides deposit insurance to protect depositors in the event that a bank fails.
+
+In the case of SVB, the FDIC's deposit insurance fund will cover any residual costs, so taxpayers will not have to bear the burden of the bank's collapse. This means that depositors will receive their money back in full, regardless of how much they had deposited in the bank. This is an important reassurance for the public, as it shows that their deposits are safe and that the government has measures in place to protect them in the event of a bank failure.
+
+By taking this joint action to fully repay depositors and protect the wider financial system, regulators have helped prevent panic and worry among the public.
+
+While the repayment of depositors and the Bank Term Funding Programme do not directly involve taxpayers' money, they suggest an expanded role for the state in backstopping the banking system, which raises questions whether what is happening is tantamount to a government bailout.
+
+In the wake of the previous financial crisis and the Covid pandemic, many investors and analysts became very wary about the news of additional bailouts and federal support for banks and other financial institutions. To many, it seems that those undertaking undue risk in the financial sector do not face any form of punishment or accountability. From PPP to Quantitative Easing, failing U.S. institutions have received many second chances to correct their balance sheets and mitigate risk. Yet again, many argue, we are seemingly faced with another urgent emergency for which the solution remains the same: government intervention in capital markets. One of the major risks of this SVB debacle is precisely this undermining of investor and consumer confidence in U.S. institutions, which could lead to further market consolidation and the production of new monopolies as consumers lose trust in smaller regional banks.
+
+Although seemingly this is a "one-off" occurrence and the result of poor management, many have argued that this could authentically be a new Bear Stearns moment in which a major U.S. bank (16thlargest in the country), collapses right before a total market collapse. In terms of size, Silicon Valley Bank actually rivals Bear Stearns and perhaps most distressingly, it is an actual deposit bank and not just a holding company. It is indeed perhaps too early to predict the full ramifications of this collapse but with the hawkish Fed likely to raise rates next week, there is an ominous feeling towards the state of U.S. markets.
+
+Overall, the downfall of SVB and the subsequent actions taken by U.S. authorities highlight the interconnectedness of the banking system and the possibility that a single failure can lead to a larger crisis. While the measures implemented by the Treasury and Fed may ease concerns among depositors and prevent further panic, they also raise questions about the role of the state in supporting the banking system and the potential for moral hazard.
+
+M. Kabir Hassan is Professor of Finance at the University of New Orleans, USA. mhassan@uno.edu.
+
+Ayoub Ghalim is a Ph.D. student at the University of New Orleans, USA
