@@ -1,0 +1,7 @@
+x=int(input("enter first no "))
+y=int(input("enter second no "))
+print("the sum =",x+y)
+print("the multiply =",x*y)
+print("the difference =",x-y)
+print("the qocient =",x/y)
+print("the modulus =",x%y)
